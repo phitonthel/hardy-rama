@@ -10,7 +10,7 @@ document.getElementById("buttonSubmit").addEventListener("click", myFunction);
 
 
 function ramaHardy (iteration) {
-let output = `<table border="1"> 
+let output = `<table border="1" style="margin: auto;"> 
 <td>No</td>
 <td>Number</td>
 <td>First Combination</td>
